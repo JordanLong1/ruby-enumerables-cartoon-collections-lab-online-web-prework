@@ -1,7 +1,9 @@
-def roll_call_dwarves(array)
-  new = []
-  each_with_index(array)
-return new
+def roll_call_dwarves(dwarfs)
+  dwarfs = []
+
+  dwarsf.each_with_index { |index|
+  dwarfs[item] = index
+}
 
   # Your code here
 end
