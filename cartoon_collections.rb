@@ -7,7 +7,8 @@ puts "#{index + 1} #{name}"
   # Your code here
 end
 
-def summon_captain_planet(planeteer_calls)# code an argument here
+def summon_captain_planet(planeteer_calls)
+planeteer_calls = []
   # Your code here
 end
 
