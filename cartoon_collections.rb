@@ -2,7 +2,7 @@ def roll_call_dwarves(dwarfs)
   dwarfs = []
 
   dwarfs.each_with_index { |index|
-  dwarfs[item] = index
+  item[dwarfs] = index
 }
 
   # Your code here
