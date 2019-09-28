@@ -1,7 +1,8 @@
 def roll_call_dwarves(array)
   new = []
-  counter = 0
-  
+  each_with_index(array)
+end
+return new
 
   # Your code here
 end
