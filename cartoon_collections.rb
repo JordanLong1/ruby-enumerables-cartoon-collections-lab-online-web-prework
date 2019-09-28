@@ -4,7 +4,8 @@ def roll_call_dwarves(dwarfs)
   dwarfs.each_with_index { |index|
   item[dwarfs] = index
 }
-prints dwarfs 
+end
+puts dwarfs
   # Your code here
 end
 
