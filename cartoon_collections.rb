@@ -14,7 +14,7 @@ veggies.collect do |call|
 end
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls(long_planeteer_calls)# code an argument here
   # Your code here
 end
 
